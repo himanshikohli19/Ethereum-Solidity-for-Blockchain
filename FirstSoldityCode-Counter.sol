@@ -1,4 +1,6 @@
 //my first solidity code
+//This program increments the count by 1
+//first contract name: Counter
 
 pragma solidity ^0.6.0;
 
