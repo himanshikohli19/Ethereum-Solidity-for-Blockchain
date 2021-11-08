@@ -1,6 +1,6 @@
-//Solidity Inheritance
-//Solidity Factories
-//Solidity smart contract interactions
+//Solidity Inheritance.
+//Solidity Factories.
+//Solidity smart contract interactions.
 
 pragma solidity ^0.6.0;
 
